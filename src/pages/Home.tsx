@@ -197,7 +197,7 @@ export default function Home() {
             One connected record from first contact to final settlement.
           </h2>
           <p style={{ maxWidth: 520, marginBottom: '2rem' }}>
-            Click any stage to see how JEST handles it.
+            Every stage is tracked inside JEST — one connected record, no data gaps between steps.
           </p>
         </RevealDiv>
         <RevealDiv>

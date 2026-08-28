@@ -110,7 +110,6 @@ export default function Hero() {
             {[
               { stat: '5+', label: 'Lifecycle stages managed' },
               { stat: '7', label: 'Role-based workspaces' },
-
             ].map(({ stat, label }) => (
               <div key={label}>
                 <div

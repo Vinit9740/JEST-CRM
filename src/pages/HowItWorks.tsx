@@ -108,7 +108,7 @@ export default function HowItWorks() {
             Seven connected stages. One continuous record.
           </h2>
           <p style={{ maxWidth: 520, marginBottom: '2rem' }}>
-            Click any stage to explore how JEST handles it.
+            All seven stages in one view — from first inquiry to long-term retention.
           </p>
         </R>
         <R>
