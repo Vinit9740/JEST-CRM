@@ -104,7 +104,7 @@ export default function Contact() {
                   color: 'var(--color-navy)',
                 }}
               >
-                hello@jestcrm.in
+                jestcrm@jest.com
               </span>
             </div>
           </a>
